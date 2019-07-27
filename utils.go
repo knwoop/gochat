@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/takahashi-ke/gochat/data"
+	"github.com/tacahac/gochat/data"
 	"html/template"
 	"log"
 	"net/http"

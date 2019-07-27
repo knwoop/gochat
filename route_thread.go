@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/takahashi-ke/gochat/data"
+	"github.com/tacahac/gochat/data"
 	"net/http"
 )
 
