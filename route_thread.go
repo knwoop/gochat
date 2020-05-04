@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/tacahac/gochat/data"
 	"net/http"
+
+	"github.com/knwoop/gochat/data"
 )
 
 // GET /threads/new

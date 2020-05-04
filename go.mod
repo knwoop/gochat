@@ -1,4 +1,4 @@
-module github.com/tacahac/gochat
+module github.com/knwoop/gochat
 
 go 1.12
 
